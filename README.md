@@ -7,6 +7,10 @@
 **Frontend:** React.js, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js, MongoDB, MySQL  
 **Tools & Platforms:** Git, GitHub, Docker
+
+## 🚀 Projects
+
+Take a look at the **pinned repos** below for my featured full stack projects!
 <!--
 **gokul911/gokul911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
