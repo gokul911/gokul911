@@ -8,7 +8,7 @@
 **Backend:** Node.js, Express.js, MongoDB, MySQL  
 **Tools & Platforms:** Git, GitHub, Docker
 
-## 🚀 Projects
+## 🔗 Projects
 
 Take a look at the **pinned repos** below for my featured full stack projects!
 <!--
