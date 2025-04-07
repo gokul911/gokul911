@@ -1,7 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm [PN Gokul]!
+🚀 Full Stack Developer | Passionate about building web apps & solving real-world problems  
+🎓 Currently looking for a Full Stack Internship opportunity
 
-- Just a TECH enthusiast ! 👾
+## 🛠️ Tech Stack
 
+**Frontend:** React.js, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, Docker
 <!--
 **gokul911/gokul911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
