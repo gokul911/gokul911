@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PN Gokul!
+# 👋 Hey there!
 🚀 Full Stack Developer | Passionate about building web apps & solving real-world problems  
 🎓 Currently looking for a Full Stack Internship opportunity
 
