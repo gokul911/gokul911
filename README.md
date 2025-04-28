@@ -10,7 +10,7 @@
 
 ## 🔗 Projects
 
-Take a look at the **pinned repos** below for my featured full stack projects!
+Take a look at the **pinned repos** for my featured full stack projects!
 <!--
 **gokul911/gokul911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
